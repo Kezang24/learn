@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+P {
+  font-size: 60px;
+  color: WHITE;
+  text-align: RIGHT;
+  padding-bottom: 0;
+}
+
+button {
+  height: 90px;
+  width: 90px;
+  border: 1px solid black;
+  border-radius: 45px;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  background-color: #424240;
+  margin-bottom: 13px;
+  margin-right: 6px;
+}
